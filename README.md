@@ -2,4 +2,4 @@ Qiita 投稿用のサンプルです。このコードのご利用について�
 
 MS Learn の Microsoft Teams タブ開発で Node.js とかローカルの環境を汚したくない人向け
 
-https://hub.docker.com/repository/docker/okadan/teamsap
+https://hub.docker.com/r/okadan/teamsap
